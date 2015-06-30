@@ -19,3 +19,11 @@ m | [tna]|b
 ```
 
 This regular expression matches `The Force Awakens` and none of the Star Trek subtitles
+
+**Updated Again:**
+
+```bash
+m | [tna]|ba
+```
+
+This regular expression matches all of the Star Wars subtitles and none of the Star Trek subtitles, included the new `Star Trek Beyond`.
