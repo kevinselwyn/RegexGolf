@@ -27,3 +27,11 @@ m | [tna]|ba
 ```
 
 This regular expression matches all of the Star Wars subtitles and none of the Star Trek subtitles, included the new `Star Trek Beyond`.
+
+**Updated Again Again:**
+
+```bash
+m | [tnal]|ba
+```
+
+This regular expression matches `The Last Jedi` and none of the Star Trek subtitles
