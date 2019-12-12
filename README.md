@@ -1,8 +1,8 @@
-#RegexGolf
+# RegexGolf
 
 Update to XKCD's [Regex Golf](http://xkcd.com/1313/) expression to include newer Star Wars film subtitles
 
-##Changes
+## Changes
 
 **Original:**
 
@@ -35,3 +35,11 @@ m | [tnal]|ba
 ```
 
 This regular expression matches `The Last Jedi` and none of the Star Trek subtitles
+
+**Updated Once More:**
+
+```bash
+m | [tnalr]|ba
+```
+
+This regular expression matches `The Rise of Skywalker` and none of the Star Trek subtitles
